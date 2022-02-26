@@ -131,7 +131,7 @@
             }
       // .section-price__container
       &__container {
-            width: 100%;
+            width: 97%;
             h2 {
                   font-size: rem(44);
                   line-height: math.div(44, 22);
@@ -139,7 +139,7 @@
                   text-align: center;
             }
             @media (max-width:$tablet){
-                  width: 90%;
+                  width: 92%;
             }
       }
 }

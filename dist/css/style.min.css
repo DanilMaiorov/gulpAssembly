@@ -487,7 +487,7 @@ ul {
   }
 }
 .section-price__container {
-  width: 100%;
+  width: 97%;
 }
 .section-price__container h2 {
   font-size: 2.75rem;
@@ -497,7 +497,7 @@ ul {
 }
 @media (max-width: 61.99875em) {
   .section-price__container {
-    width: 90%;
+    width: 92%;
   }
 }
 
