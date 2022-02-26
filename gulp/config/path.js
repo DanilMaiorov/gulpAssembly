@@ -21,7 +21,7 @@ export const path = { //объект содержащий все пути к ф�
         scssFonts: `${srcFolder}/scss/fonts/`,
         html: `${srcFolder}/*.html`,
         files: `${srcFolder}/files/**/*.*`,
-        images: `${srcFolder}/img/*.{jpg,jpeg,png,gif,webp}`,
+        images: `${srcFolder}/img/**/*.{jpg,jpeg,png,gif,webp}`,
         fonts: `${srcFolder}/fonts/*.*`,
         svgicons: `${srcFolder}/img/icons/*.svg`,
     },

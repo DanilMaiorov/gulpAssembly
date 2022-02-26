@@ -2,5 +2,7 @@
 
 functions.isWebp() */
 
+import "./modules/dynamicAdapt.js";
 
-console.log('sdfsdf');
+
+
